@@ -49,7 +49,7 @@ npm run dev
 You can use these credentials to test the role-based dashboards:
 
 **System Administrator:**
-- **Email:** dmin@storeratings.io
+- **Email:** admin@storeratings.io
 - **Password:** Admin@1234
 
 **Store Owner:**
