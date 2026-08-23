@@ -66,3 +66,6 @@ You can use these credentials to test the role-based dashboards:
 - **Store Owner:** Track customer sentiment, see store average rating, total ratings, and customer breakdown.
 - **Normal User:** Register, discover stores, search, filter, and submit/modify 1-5 star ratings.
 - **Security:** JWT Authentication, Bcrypt password hashing, and strict form validations (Regex emails, complex passwords, max length addresses).
+
+**Demo Video**
+https://drive.google.com/file/d/1K_dSLr9N0-CCP19J5ZzNJVCwHVP2hkth/view?usp=sharing
